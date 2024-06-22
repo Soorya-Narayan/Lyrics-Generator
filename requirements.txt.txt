@@ -1,0 +1,6 @@
+pandas
+langdetect
+tensorflow
+keras
+numpy
+pickle
