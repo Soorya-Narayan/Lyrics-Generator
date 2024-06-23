@@ -1,5 +1,5 @@
 # Lyrics-Generator
-A simple lyrics generation model built in Jupyter Notebook.
+This is a lyrics generation model that is quite basic but indeed state-of-the-art.
 
 ## 🔗 Links
 
